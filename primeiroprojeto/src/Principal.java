@@ -1,7 +1,9 @@
+import br.com.alura.screammatch.modelos.Filme;
+
 public class Principal {
     public static void main(String[] args) {
-        //Criação do objeto meuFilme (instância da classe Filme)
-        //Criando a instância da classe Filme com o operador new
+        //Criação do objeto meuFilme (instância da classe br.com.alura.screammatch.modelos.Filme)
+        //Criando a instância da classe br.com.alura.screammatch.modelos.Filme com o operador new
         Filme meuFilme = new Filme();
 
         //Atribuindo valores ao objeto meuFilme
